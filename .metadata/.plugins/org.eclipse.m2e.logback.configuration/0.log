@@ -145,3 +145,21 @@
 2022-05-11 13:00:29,349 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
 2022-05-11 13:01:11,156 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-05-11 13:01:11,158 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:01:11,186 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:01:11,191 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:05:01,024 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:05:01,027 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:05:01,029 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:05:01,031 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:06:39,642 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:06:39,645 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:06:39,647 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:06:39,650 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:07:10,108 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:07:10,110 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:07:10,116 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:07:10,120 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:07:27,557 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:07:27,560 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:07:27,564 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:07:27,566 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
