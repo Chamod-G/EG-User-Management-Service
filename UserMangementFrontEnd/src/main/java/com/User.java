@@ -77,30 +77,34 @@ public class User {
 		
 			//prepare the html table to be displayed
 			output = "<table border='1'>"
-					+ "<tr><th>Item Code</th><th>Item Name</th><th>Item Price</th>"
-					+ "<th>Item Description</th><th>Update</th><th>Remove</th></tr>";
+					+ "<tr><th>User NIC</th><th>User Name</th><th>User Address</th>"
+					+ "<th>User Type</th><th>User Sector</th><th>Update</th><th>Remove</th></tr>";
 		
-			String query = "select * from items";
+			String query = "select * from usermanagement";
 			Statement stmt = con.createStatement();
 			ResultSet rs = stmt.executeQuery(query);
 			
 			//iterate through the rows in rs
 			while(rs.next()) {
-				String itemID = Integer.toString(rs.getInt("itemID"));
-				String itemCode = rs.getString("itemCode");
-				String itemName = rs.getString("itemName");
-				String itemPrice = Double.toString(rs.getDouble("itemPrice"));
-				String itemDesc = rs.getString("itemDesc");
+				String userID = Integer.toString(rs.getInt("userID"));
+				String userNIC = rs.getString("userNIC");
+				String userName = rs.getString("userName");
+				String userAddress = rs.getString("userAddress");
+				String userType = rs.getString("userType");
+				String userSector = rs.getString("userSector");
 				
 				//Add a row into the html table
-				output +="<tr><td>" + itemCode + "</td>";
-				output +="<td>"+itemName+"</td>";
-				output +="<td>"+itemPrice+"</td>";
-				output +="<td>"+itemDesc+"</td>";
+				output += "<tr><td>" + userNIC + "</td>";
+				output += "<td>" + userName + "</td>";
+				output += "<td>" + userAddress + "</td>";
+				output += "<td>" + userType + "</td>";
+				output += "<td>" + userSector + "</td>";
 				
 				//buttons
-				output += "<td><input name='btnUpdate' type='button' value='Update' class='btnUpdate btn btn-secondary' data-itemid='" + itemID + "'></td>"
-						 + "<td><input name='btnRemove' type='button' value='Remove' class='btnRemove btn btn-danger' data-itemid='" + itemID + "'></td></tr>";
+				output += "<td><input name='btnUpdate' type='button' value='Update'class='btn btn-secondary'></td>"
+						+ "<td><form method='post' action='users.jsp'>"
+						+ "<input name='btnRemove' type='submit' value='Remove'class='btn btn-danger'>"
+						+ "<input name='userID' type='hidden' value='" + userID + "'>" + "</form></td></tr>";
 			}
 			
 			con.close();

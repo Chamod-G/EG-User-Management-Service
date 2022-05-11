@@ -109,3 +109,11 @@
 2022-05-11 11:48:00,118 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
 2022-05-11 12:06:03,864 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-05-11 12:06:03,868 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 12:06:03,871 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 12:06:03,875 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 12:13:22,742 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 12:13:22,750 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 12:13:22,755 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 12:13:22,757 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 12:19:10,588 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 12:19:10,591 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
