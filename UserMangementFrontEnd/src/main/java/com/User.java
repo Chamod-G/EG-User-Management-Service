@@ -120,7 +120,7 @@ public class User {
 		return output;
 	}
 	
-		public String updateItem(String ID, String nic, String name, String address, String type, String sector) {
+		public String updateUser(String ID, String nic, String name, String address, String type, String sector) {
 		
 		String output = "";
 		
