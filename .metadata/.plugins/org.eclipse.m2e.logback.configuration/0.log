@@ -163,3 +163,173 @@
 2022-05-11 13:07:27,560 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
 2022-05-11 13:07:27,564 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-05-11 13:07:27,566 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:10:22,267 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:10:22,272 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:10:22,280 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:10:22,283 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:16:13,494 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:16:13,500 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:16:13,502 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:16:13,504 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:16:39,100 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:16:39,103 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:16:39,122 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:16:39,125 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:34:54,566 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:34:54,572 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:34:54,575 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:34:54,577 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:35:21,478 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:35:21,480 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:35:21,510 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:35:21,512 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:45:02,627 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:45:02,632 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:45:02,635 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:45:02,638 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:58:05,245 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:UserManagementFrontEnd:0.0.1-SNAPSHOT @ C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\pom.xml.
+2022-05-11 13:58:10,360 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:58:10,366 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 13:58:10,373 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 13:58:10,375 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 13:58:10,376 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of UserMangementFrontEnd
+2022-05-11 13:58:10,376 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for UserMangementFrontEnd
+2022-05-11 13:58:10,396 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:01:39,873 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:UserManagementFrontEnd:0.0.1-SNAPSHOT @ C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\pom.xml.
+2022-05-11 14:01:44,180 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:01:44,183 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 14:01:44,194 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:01:44,196 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 14:01:44,200 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of UserMangementFrontEnd
+2022-05-11 14:01:44,200 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for UserMangementFrontEnd
+2022-05-11 14:01:44,222 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:01:51,053 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:01:51,056 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 14:01:51,060 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:01:51,089 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 14:02:33,124 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:UserManagementFrontEnd:0.0.1-SNAPSHOT @ C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\pom.xml.
+2022-05-11 14:02:37,314 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:02:37,321 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 14:02:37,332 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:02:37,336 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 14:02:37,339 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of UserMangementFrontEnd
+2022-05-11 14:02:37,339 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for UserMangementFrontEnd
+2022-05-11 14:02:37,353 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:44:52,457 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:44:52,472 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 14:44:52,480 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:44:52,482 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 14:59:13,989 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:59:13,995 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 14:59:13,997 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 14:59:14,057 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 15:04:11,932 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 15:04:11,936 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 15:04:11,939 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 15:04:11,942 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 15:07:18,352 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 15:07:18,356 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 15:07:18,361 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 15:07:18,363 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 15:11:02,812 [Worker-103: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 15:11:02,816 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 15:11:02,821 [Worker-103: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 15:11:02,823 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:13:25,079 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-11 18:14:05,463 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-11 18:14:07,812 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:UserManagementFrontEnd:0.0.1-SNAPSHOT @ C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\pom.xml.
+2022-05-11 18:14:14,002 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserMangementFrontEnd/src
+2022-05-11 18:14:14,005 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserMangementFrontEnd/src/test/java
+2022-05-11 18:14:14,142 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2022-05-11 18:14:17,698 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:14:17,703 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:14:17,713 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:14:17,715 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:14:17,724 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of UserMangementFrontEnd
+2022-05-11 18:14:17,726 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for UserMangementFrontEnd
+2022-05-11 18:14:17,800 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2022-05-11 18:14:17,824 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:14:29,920 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:14:29,923 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:14:29,926 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:14:29,929 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:17:47,699 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-11 18:17:49,206 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:UserManagementFrontEnd:0.0.1-SNAPSHOT @ C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\pom.xml.
+2022-05-11 18:17:52,063 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserMangementFrontEnd/src
+2022-05-11 18:17:52,066 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserMangementFrontEnd/src/test/java
+2022-05-11 18:17:52,076 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-05-11 18:17:54,247 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:17:54,251 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:17:54,344 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:17:54,348 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:17:54,349 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of UserMangementFrontEnd
+2022-05-11 18:17:54,350 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for UserMangementFrontEnd
+2022-05-11 18:17:54,360 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:19:55,543 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:19:55,549 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:19:55,559 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:19:55,563 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:20:03,341 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-11 18:20:04,937 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:UserManagementFrontEnd:0.0.1-SNAPSHOT @ C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\pom.xml.
+2022-05-11 18:20:08,252 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserMangementFrontEnd/src
+2022-05-11 18:20:08,257 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UserMangementFrontEnd/src/test/java
+2022-05-11 18:20:08,265 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-05-11 18:20:10,111 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:20:10,119 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:20:10,129 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:20:10,146 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:20:10,147 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of UserMangementFrontEnd
+2022-05-11 18:20:10,148 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for UserMangementFrontEnd
+2022-05-11 18:20:10,158 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:21:35,536 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:21:35,539 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:21:35,542 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:21:35,546 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:37:16,694 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:37:16,719 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:37:16,760 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:37:16,768 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:42:35,574 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:42:35,580 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:42:35,589 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:42:35,592 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:43:02,071 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:43:02,076 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:43:02,100 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:43:02,103 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:43:29,419 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:43:29,422 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:43:29,428 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:43:29,430 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:43:50,968 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:43:50,972 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:43:50,978 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:43:50,980 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:43:55,869 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:43:55,875 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:43:55,878 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:43:55,880 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:47:03,120 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:47:03,128 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:47:03,140 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:47:03,143 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:56:02,222 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:56:02,229 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:56:02,232 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:56:02,235 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:56:44,581 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:56:44,590 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:56:44,638 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:56:44,644 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:58:47,480 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:58:47,505 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:58:47,510 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:58:47,513 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 18:59:50,685 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:59:50,691 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 18:59:50,698 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 18:59:50,700 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
+2022-05-11 19:05:04,520 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 19:05:04,549 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 19:05:04,557 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 19:05:04,561 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources

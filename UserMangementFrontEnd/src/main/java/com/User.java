@@ -101,10 +101,8 @@ public class User {
 				output += "<td>" + userSector + "</td>";
 				
 				//buttons
-				output += "<td><input name='btnUpdate' type='button' value='Update'class='btn btn-secondary'></td>"
-						+ "<td><form method='post' action='users.jsp'>"
-						+ "<input name='btnRemove' type='submit' value='Remove'class='btn btn-danger'>"
-						+ "<input name='userID' type='hidden' value='" + userID + "'>" + "</form></td></tr>";
+				output += "<td><input name='btnUpdate' type='button' value='Update' class='btnUpdate btn btn-secondary' data-userid='" + userID + "'></td>"
+						 + "<td><input name='btnRemove' type='button' value='Remove' class='btnRemove btn btn-danger' data-userid='" + userID + "'></td></tr>";
 			}
 			
 			con.close();
@@ -134,7 +132,7 @@ public class User {
 			}
 			
 			//create a prepared statement
-			String query = "UPDATE usermanagement SET userNIC=?,userName=?,userAddress=?,userType=?, userSector=?WHERE userID=?";
+			String query = "UPDATE usermanagement SET userNIC=?,userName=?,userAddress=?,userType=?, userSector=? WHERE userID=?";
 			
 			PreparedStatement preparedStmt = con.prepareStatement(query);
 			

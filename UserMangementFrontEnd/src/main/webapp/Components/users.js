@@ -18,6 +18,7 @@ $(document).on("click", "#btnSave", function(event)
 	 
 	 // Form validation-------------------
 	var status = validateItemForm();
+	console.log(status);
 	if (status != true)
 	 {
 		 $("#alertError").text(status);
@@ -27,7 +28,7 @@ $(document).on("click", "#btnSave", function(event)
 	 
 	 // If valid------------------------
  	var type = ($("#hidItemIDSave").val() == "") ? "POST" : "PUT";
- 	
+ 	$("#alertSuccess").text(type);
  	$.ajax(
 	 {
 		 url : "UsersAPI",
@@ -45,7 +46,7 @@ $(document).on("click", "#btnSave", function(event)
 //UPDATE---------------------------------------------
 $(document).on("click", ".btnUpdate", function(event)
 {
-	$("#hidItemIDSave").val($(this).data("userID")); 	
+	$("#hidItemIDSave").val($(this).data("userid")); 	
 	$("#userNIC").val($(this).closest("tr").find('td:eq(0)').text());
 	$("#userName").val($(this).closest("tr").find('td:eq(1)').text());
 	$("#userAddress").val($(this).closest("tr").find('td:eq(2)').text());
@@ -60,7 +61,7 @@ $(document).on("click", ".btnRemove", function(event)
 	 {
 		 url : "UsersAPI",
 		 type : "DELETE",
-		 data : "userID=" + $(this).data("userID"),
+		 data : "userID=" + $(this).data("userid"),
 		 dataType : "text",
 		 complete : function(response, status)
 		 {
@@ -93,7 +94,7 @@ function validateItemForm()
 	 {
 	 	return "Insert User Type.";
 	 }
-	 	// SECTOR
+	 // SECTOR
 		if ($("#userSector").val().trim() == "")
 	 {
 	 	return "Insert User Sector.";

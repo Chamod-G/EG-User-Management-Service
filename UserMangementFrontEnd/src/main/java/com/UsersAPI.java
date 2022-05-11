@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 
 /**
- * Servlet implementation class ItemsAPI
+ * Servlet implementation class UsersAPI
  */
 @WebServlet("/UsersAPI")
 public class UsersAPI extends HttpServlet {

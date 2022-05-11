@@ -6,23 +6,24 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Items Page Lab10</title>
+<title>ElectroGrid User Management</title>
 <link rel="stylesheet" href="Views/bootstrap.min.css">
 <script src="Components/jquery-3.6.0.min.js"></script>
-<script src="Components/items.js"></script>
+<script src="Components/users.js"></script>
 </head>
+
 <body>
 
 <div class="container">
 	<div class="row">
 		<div class="col-6"> 
 
-			<h1>Items Management</h1>
+			<h1>User Management</h1>
 					<form id="formItem" name="formItem">
 						User NIC: 
 						<input id="userNIC" name="userNIC" type="text" class="form-control form-control-sm">
 						<br>
-						User name: 
+						User Name: 
 						<input id="userName" name="userName" type="text" class="form-control form-control-sm">
 						<br>
 						User Address: 
