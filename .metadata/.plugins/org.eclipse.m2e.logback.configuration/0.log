@@ -101,3 +101,5 @@
 2022-05-11 11:40:54,715 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
 2022-05-11 11:41:53,108 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-05-11 11:41:53,111 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\main\resources
+2022-05-11 11:41:53,132 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-11 11:41:53,134 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SLIIT\Y3S1\PAF\Assignement\FrontEnd\UserMangementFrontEnd\src\test\resources
