@@ -120,7 +120,7 @@ public class User {
 		return output;
 	}
 	
-		public String updateItem(String ID, String code, String name, String price, String desc) {
+		public String updateItem(String ID, String nic, String name, String address, String type, String sector) {
 		
 		String output = "";
 		
@@ -134,27 +134,28 @@ public class User {
 			}
 			
 			//create a prepared statement
-			String query = "UPDATE items SET itemCode=?, itemName=?, itemPrice=?, itemDesc=? WHERE itemID=?";
+			String query = "UPDATE usermanagement SET userNIC=?,userName=?,userAddress=?,userType=?, userSector=?WHERE userID=?";
 			
 			PreparedStatement preparedStmt = con.prepareStatement(query);
 			
 			//binding the values
-			preparedStmt.setString(1, code);
+			preparedStmt.setString(1, nic);
 			preparedStmt.setString(2, name);
-			preparedStmt.setDouble(3, Double.parseDouble(price));
-			preparedStmt.setString(4, desc);
-			preparedStmt.setInt(5, Integer.parseInt(ID));
+			preparedStmt.setString(3, address);
+			preparedStmt.setString(4, type);
+			preparedStmt.setString(5, sector);
+			preparedStmt.setInt(6, Integer.parseInt(ID));
 
 			//execute the statement
 			preparedStmt.execute();
 			con.close();
 			
-			String newItems = readItems();
-			output = "{\"status\":\"success\", \"data\": \"" + newItems + "\"}"; 
+			String newUsers = readUsers();
+			output = "{\"status\":\"success\", \"data\": \"" + newUsers + "\"}"; 
 		}
 		catch(Exception e)
 		{
-			output = "{\"status\":\"error\", \"data\": \"Error while updating the item.\"}";
+			output = "{\"status\":\"error\", \"data\": \"Error while updating the user.\"}";
 			System.err.println(e.getMessage()); 
 		}
 		
@@ -182,12 +183,12 @@ public class User {
 			 preparedStmt.execute();
 			 con.close();
 
-			 String newItems = readItems();
-			 output = "{\"status\":\"success\", \"data\": \"" + newItems + "\"}"; 
+			 String newUsers = readUsers();
+			 output = "{\"status\":\"success\", \"data\": \"" + newUsers + "\"}"; 
 		 }
 		catch (Exception e)
 		 {
-			output = "{\"status\":\"error\", \"data\": \"Error while deleting the item.\"}";
+			output = "{\"status\":\"error\", \"data\": \"Error while deleting the user.\"}";
 			System.err.println(e.getMessage()); 
 		 }
 		return output;
